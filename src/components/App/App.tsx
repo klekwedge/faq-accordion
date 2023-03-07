@@ -1,5 +1,7 @@
+import FAQ from '../FAQ/FAQ';
+
 function App() {
-  return <div>Hello</div>;
+  return <FAQ />;
 }
 
 export default App;
